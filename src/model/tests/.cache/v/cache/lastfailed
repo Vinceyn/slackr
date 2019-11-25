@@ -1,0 +1,10 @@
+{
+  "admin_userpermission_change_test.py": true,
+  "auth_test.py": true,
+  "auth_test.py::test_auth_logout": true,
+  "auth_test.py::test_auth_passwordreset_reset": true,
+  "message_test.py": true,
+  "search_test.py": true,
+  "standup_test.py": true,
+  "user_test.py": true
+}

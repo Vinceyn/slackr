@@ -1,0 +1,29 @@
+1) As a user, I want to be able to login to Slackr, so that I can access my account.
+2) As a user, I want to be able to create an account, so that I can message my fellow students.
+3) As a user, I want to be able to reset my password, so that I can access my account if I forget my password.
+4) As a user, I want to be able to logout of my account, so that I can keep my data protected.
+5) As a user, I want to be able to create a channel, so that I can communicate with people more easily.
+6) As a user, I want to be able to list all my channels, so I can keep track of all channels I am part of.
+7) As a user, I want to be able to see all public channels, so that I can see if any of them intrigue me.
+8) As a user, I want to be able to join a channel, so that I can communicate with people with common goals and ideas.
+9) As a user, I want to be able to see which channel I am currently in so that I can know the context of the messages.
+10) As a user, I want to be able to see the other members of the channel, so that I can know who else is part of the channel.
+11) As a user, I want to be able to see the messages in the channel, so that I know what is being discussed.
+12) As a user, I want to be able to see the owner of the channel, so that I can determine who the authority is.
+13) As a user, I want to be able to add users to the channel, so that people can be part of channels/discussions.
+14) As a user, I want to be able to leave a channel, so that if it is no longer relevant I don't need to be a part of it.
+15) As an owner, I want to be able to make other users owners, so that they can co-manage the channel.
+16) As a user, I want to be able to send messages, so that other people can know about my thoughts.
+17) As a user, I want to be able to add someone to the channel, so that more people can benefit from the discussion.
+18) As a user, I want to be able to pin a message, so that I can add important information.
+19) As a user, I want to be able to unpin a message, so that I can remove a piece of irrelevant information.
+20) As a user, I want to be able to react to a message, so that I can show my reaction to something.
+21) As a user, I want to be able to unreact to a message, so that I can change or remove my reactions.
+22) As a user, I want to be able to delete a message, so that I can remove something irrelevant.
+23) As a user, I want to be able to enable a standup, so that I can summarise a discussion.
+24) As a user, I want to be able to send a message at a later date, so that it can be sent at a more appropriate time.
+25) As a user, I want to be able to search for messages, so that I can find past messages.
+26) As an admin, I want to be able to make other users admins, so that they can also co-manage things.
+27) As a User, I should be able to see the channel's information, so that I can know more about the channel.
+28) As a user, I want to be able to view another user's profile, so that I can see their information.
+29) As a user, I want to be able to edit my profile, so that I can keep my details up to date.

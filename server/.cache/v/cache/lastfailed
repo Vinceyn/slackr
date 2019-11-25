@@ -1,0 +1,17 @@
+{
+  "channel_test.py::test_channel_invite_1": true,
+  "channel_test.py::test_channel_invite_2": true,
+  "channel_test.py::test_channel_invite_3": true,
+  "channel_test.py::test_channel_join_1": true,
+  "search_test.py::test_search_1": true,
+  "search_test.py::test_search_10": true,
+  "search_test.py::test_search_11": true,
+  "search_test.py::test_search_2": true,
+  "search_test.py::test_search_3": true,
+  "search_test.py::test_search_4": true,
+  "search_test.py::test_search_5": true,
+  "search_test.py::test_search_6": true,
+  "search_test.py::test_search_7": true,
+  "search_test.py::test_search_8": true,
+  "search_test.py::test_search_9": true
+}
